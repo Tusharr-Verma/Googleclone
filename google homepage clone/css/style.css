@@ -186,3 +186,17 @@ footer a:hover {
 .link-2 {
 	padding-right: 18.7px;
 }
+
+
+@media screen and (max-width: 480px) {
+	.s-box {
+		max-width: 300px;
+	}
+
+	.section-1 .logo {
+		display: block;
+		margin: 0px auto;
+		margin-top: 107px;
+		max-width: 200px;
+	}
+}
